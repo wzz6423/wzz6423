@@ -35,15 +35,14 @@ I enjoy exploring AI — especially LLMs and agents — alongside C++, Java, Go,
       <p>Tutorial-style notes and notebooks covering PyTorch, Transformers, generative AI, multimodal models, and practical ML workflows.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>✦ <a href="https://github.com/wzz6423/gpt-graph">gpt-graph</a></h3>
-      <p>An exploration of a new way to chat and work with GPT.</p>
+      <h3>📝 <a href="https://github.com/pluk-inc/markdown-preview">Markdown Preview</a></h3>
+      <p>A simple macOS Markdown viewer for reading <code>.md</code> files.</p>
     </td>
   </tr>
 </table>
 
 ## More pinned work
 
-- [Markdown Preview](https://github.com/pluk-inc/markdown-preview) — A simple macOS Markdown viewer for reading `.md` files.
 - [MyCode](https://github.com/wzz6423/MyCode) — A collection of code, projects, and experiments.
 
 ---
