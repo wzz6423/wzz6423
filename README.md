@@ -31,12 +31,12 @@ I enjoy exploring AI — especially LLMs and agents — alongside C++, Java, Go,
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/wzz6423/deep-learning-notes">Deep Learning Notes</a></h3>
-      <p>Tutorial-style notes and notebooks covering PyTorch, Transformers, generative AI, multimodal models, and practical ML workflows.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📝 <a href="https://github.com/pluk-inc/markdown-preview">Markdown Preview</a></h3>
+      <h3>📝 <a href="https://github.com/pluk-inc/markdown-preview">markdown-preview</a></h3>
       <p>A simple macOS Markdown viewer for reading <code>.md</code> files.</p>
+    </td>
+        <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/datawhalechina/deep-learning-notes">Deep Learning Notes</a></h3>
+      <p>Tutorial-style notes and notebooks covering PyTorch, Transformers, generative AI, multimodal models, and practical ML workflows.</p>
     </td>
   </tr>
 </table>
@@ -49,6 +49,6 @@ I enjoy exploring AI — especially LLMs and agents — alongside C++, Java, Go,
 
 <div align="center">
 
-[GitHub](https://github.com/wzz6423) · [zisla](https://wzz6423.github.io/zisla/) · [Zshell](https://wzz6423.github.io/zshell/)
+[GitHub](https://github.com/wzz6423) · [zisla](https://wzz6423.github.io/zisla/) · [Zshell](https://wzz6423.github.io/zshell/)  · [markdown-preview](https://github.com/pluk-inc/markdown-preview)
 
 </div>
