@@ -30,6 +30,13 @@ I enjoy exploring AI — especially LLMs and agents — alongside C++, Java, Go,
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <h3>💬 <a href="https://github.com/wzz6423/read-chat-history">read-chat-history</a></h3>
+      <p>An agent skill for listing, searching, and reading local conversation history from Claude Code, Codex, Grok, WorkBuddy, Kimi, ZCode, and supported TRAE formats.</p>
+      <p><a href="https://github.com/wzz6423/read-chat-history/tree/main/skills/chat-history">Skill →</a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📝 <a href="https://github.com/pluk-inc/markdown-preview">markdown-preview</a></h3>
       <p>A simple macOS Markdown viewer for reading <code>.md</code> files.</p>
